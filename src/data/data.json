@@ -1,0 +1,209 @@
+{
+  "storeInfo": {
+    "name": "Kopi & Kue Senja",
+    "tagline": "Cita Rasa Tradisional, Racikan Sepenuh Hati",
+    "logo": "/uploads/branding/logo.webp",
+    "whatsappNumber": "6281234567890",
+    "whatsappGreeting": "Halo Kak, saya tertarik memesan produk dari Kopi & Kue Senja:"
+  },
+  "navigation": [
+    {
+      "label": "Beranda",
+      "href": "#beranda"
+    },
+    {
+      "label": "Tentang Kami",
+      "href": "#tentang"
+    },
+    {
+      "label": "Katalog Produk",
+      "href": "#katalog"
+    },
+    {
+      "label": "Testimoni",
+      "href": "#testimoni"
+    },
+    {
+      "label": "Kontak",
+      "href": "#kontak"
+    }
+  ],
+  "hero": {
+    "badge": "100% Bahan Lokal Pilihan & Fresh Setiap Hari",
+    "title": "Nikmati Kehangatan Kopi & Kudapan Rumahan Terbaik",
+    "subtitle": "Dari biji kopi pilihan nusantara hingga kue tradisional lembut tanpa bahan pengawet. Siap menemani waktu santai, rapat kantor, maupun acara spesial Anda.",
+    "bannerImage": "/uploads/branding/hero-banner.webp",
+    "primaryCta": {
+      "text": "Lihat Katalog Produk",
+      "href": "#katalog"
+    },
+    "secondaryCta": {
+      "text": "Konsultasi Pesanan",
+      "whatsappMessage": "Halo Kopi & Kue Senja, saya ingin tanya mengenai pesanan"
+    },
+    "highlights": [
+      {
+        "value": "1.500+",
+        "label": "Pelanggan Puas"
+      },
+      {
+        "value": "100%",
+        "label": "Halal & Higienis"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Rating Pelanggan"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "Cerita Kami",
+    "title": "Berawal dari Dapur Rumah, Hadir untuk Menemani Hari Anda",
+    "description": "Didirikan sejak tahun 2021, Kopi & Kue Senja lahir dari kecintaan kami terhadap kuliner lokal dan kopi nusantara. Kami percaya bahwa makanan dan minuman yang baik berasal dari bahan baku segar yang diolah dengan jujur tanpa pengawet buatan.",
+    "mission": "Memberdayakan petani lokal dan menghadirkan produk kuliner UMKM berkualitas premium dengan harga yang tetap bersahabat untuk semua kalangan.",
+    "features": [
+      {
+        "title": "Bahan Baku Segar",
+        "description": "Dibuat setiap pagi menggunakan bahan alami pilihan langsung dari petani dan pemasok lokal."
+      },
+      {
+        "title": "Tanpa Pengawet",
+        "description": "Aman dikonsumsi seluruh keluarga karena bebas dari pemanis dan pengawet buatan."
+      },
+      {
+        "title": "Pengiriman Cepat",
+        "description": "Pesanan dikemas rapi dengan segel higienis dan dikirim langsung ke lokasi Anda."
+      }
+    ]
+  },
+  "categories": [
+    "Semua",
+    "Kopi & Minuman",
+    "Kue & Roti",
+    "Paket Hampers"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Es Kopi Susu Gula Aren Senja (1 Liter)",
+      "category": "Kopi & Minuman",
+      "price": 65000,
+      "originalPrice": 75000,
+      "unit": "Botol 1L",
+      "badge": "Terlaris",
+      "description": "Perpaduan espresso biji Arabika Gayo, susu segar creamy, dan gula aren organik asli.",
+      "image": "/uploads/products/produk-1.webp",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Brownies Panggang Fudgy Cokelat Belgia",
+      "category": "Kue & Roti",
+      "price": 55000,
+      "originalPrice": null,
+      "unit": "Box 20x10 cm",
+      "badge": "Favorit",
+      "description": "Brownies panggang dengan tekstur shiny crust di luar dan lembut lumer di dalam, topping almond & choco chips.",
+      "image": "/uploads/products/produk-2.webp",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Bolu Gulung Pandan Keju Lumer",
+      "category": "Kue & Roti",
+      "price": 48000,
+      "originalPrice": 55000,
+      "unit": "Box 24 cm",
+      "badge": "Promo",
+      "description": "Bolu lembut dengan ekstrak daun pandan asli dan isian buttercream serta parutan keju cheddar melimpah.",
+      "image": "/uploads/products/produk-1.webp",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Cold Brew Arabika Bali Kintamani",
+      "category": "Kopi & Minuman",
+      "price": 28000,
+      "originalPrice": null,
+      "unit": "Botol 250ml",
+      "badge": null,
+      "description": "Kopi seduh dingin selama 16 jam dengan cita rasa segar khas jeruk (citrusy) dan aftertaste bersih.",
+      "image": "/uploads/products/produk-2.webp",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Croissant Butter Klasik (Isi 4 Pcs)",
+      "category": "Kue & Roti",
+      "price": 42000,
+      "originalPrice": null,
+      "unit": "Pack 4 Pcs",
+      "badge": "Fresh Oven",
+      "description": "Pastry renyah berlapis dengan aroma French butter autentik, cocok dinikmati bersama kopi hangat.",
+      "image": "/uploads/products/produk-1.webp",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Paket Hampers Spesial Senja (Kopi 1L + Brownies)",
+      "category": "Paket Hampers",
+      "price": 110000,
+      "originalPrice": 125000,
+      "unit": "Paket Eksklusif",
+      "badge": "Hemat",
+      "description": "Paket bingkisan lengkap berisi 1 Liter Kopi Susu Gula Aren, 1 Box Fudgy Brownies, kartu ucapan & tas kanvas.",
+      "image": "/uploads/products/produk-2.webp",
+      "available": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Rina Wulandari",
+      "role": "Ibu Rumah Tangga, Jakarta",
+      "rating": 5,
+      "comment": "Kopi susu 1 liternya wajib ada di kulkas tiap minggu! Manis gula arennya pas banget nggak bikin eneg, anak-anak juga suka banget sama brownies panggangnya.",
+      "avatar": "RW"
+    },
+    {
+      "id": 2,
+      "name": "Budi Santoso",
+      "role": "Manajer Operasional Kantor",
+      "rating": 5,
+      "comment": "Sering pesan puluhan box kue dan kopi di sini untuk rapat kantor. Pengiriman selalu tepat waktu, kemasannya rapi, dan semua rekan kerja suka.",
+      "avatar": "BS"
+    },
+    {
+      "id": 3,
+      "name": "Dinda Permata",
+      "role": "Mahasiswi & Freelancer",
+      "rating": 5,
+      "comment": "Pesan lewat WhatsApp cepat banget responnya. Paket hampersnya cantik banget buat kado ulang tahun sahabat, harganya juga ramah di kantong!",
+      "avatar": "DP"
+    }
+  ],
+  "footer": {
+    "address": "Jl. Melati Indah No. 45, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161",
+    "operationalHours": "Senin - Minggu: 08.00 - 20.00 WIB",
+    "phone": "+62 812-3456-7890",
+    "email": "halo@kopikuesenja.id",
+    "socials": [
+      {
+        "platform": "Instagram",
+        "handle": "@kopikuesenja.id",
+        "url": "https://instagram.com"
+      },
+      {
+        "platform": "Facebook",
+        "handle": "Kopi & Kue Senja Official",
+        "url": "https://facebook.com"
+      },
+      {
+        "platform": "TikTok",
+        "handle": "@kopikuesenja",
+        "url": "https://tiktok.com"
+      }
+    ],
+    "copyright": "© 2026 Kopi & Kue Senja. Seluruh hak cipta dilindungi."
+  }
+}
